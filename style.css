@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+p {
+  font-family: sans-serif;
+}
+.hone {
+  font-family: Arial;
+  font-size: 30px;
+}
+
+.spanone {
+  color: orange;
+}
+.border {
+  border-left: 3px solid orange;
+  border-radius: 2px;
+  padding-left: 10px;
+}
+.mkone {
+  display: flex;
+}
+.secone {
+  margin-bottom: 150px;
+}
+.hone {
+  width: 50%;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.person img {
+  width: 35%;
+  margin-left: 400px;
+  margin-bottom: 40px;
+}
+
+.btnone {
+  background-color: orange;
+  border: 2px solid orange;
+  border-radius: 4px;
+  font-size: 25px;
+  margin: 10px;
+  padding: 10px;
+  font-weight: 700;
+}
+.hsix {
+  margin-top: 20px;
+  color: rgb(11, 77, 66);
+}
+.container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin: 200px;
+  margin-left: 350px;
+}
+.h11 {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 30px;
+  color: cadetblue;
+}
+.mission {
+  margin: 30px;
+  padding: 20px;
+
+  background: wheat;
+  border-radius: 20px;
+  box-shadow: 20px 20px 40px gray;
+  text-align: center;
+}
+.vission {
+  margin: 30px;
+  background-color: rgb(214, 206, 206);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 20px 20px 40px gray;
+  text-align: center;
+}
+.goal {
+  margin: 30px;
+  background-color: rgb(224, 230, 177);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 20px 20px 40px gray;
+  text-align: center;
+}
+
+.img {
+  width: 100px;
+}
+
+.sectow h1 {
+  font-family: Arial;
+}
+
+.sectow p {
+  font-family: sans-serif;
+}
+
+.container2 {
+  display: flex;
+}
+
+.devlope {
+  width: 50%;
+  font-size: 40px;
+  margin-right: 200px;
+}
+
+.image img {
+  width: 30%;
+  margin-left: 300px;
+}
+.btn2 {
+  background-color: orange;
+  border: 2px solid orange;
+  border-radius: 4px;
+  font-size: 25px;
+  margin: 10px;
+  padding: 10px;
+  font-weight: 700;
+}
+
+.container3 {
+  display: flex;
+}
+
+.know {
+  width: 50%;
+  font-size: 30px;
+  margin: 200px;
+}
+.kimage img {
+  width: 40%;
+  margin: 300px;
+}
+
+.btn3 {
+  background-color: orange;
+  border: 2px solid orange;
+  border-radius: 4px;
+  font-size: 25px;
+
+  margin: 10px;
+  padding: 10px;
+  font-weight: 700;
+}
+footer {
+  text-align: center;
+  margin: 50px;
+  padding: 60px;
+  /* height: 50px; */
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
